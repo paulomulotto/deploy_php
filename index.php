@@ -44,7 +44,7 @@
 
     
     <!-- Custom styles for this template -->
-    <link href="product.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.0/examples/product/product.css" rel="stylesheet">
   </head>
   <body>
     
