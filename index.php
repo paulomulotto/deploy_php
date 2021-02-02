@@ -1,6 +1,14 @@
-frase inicial
-<div>
+<h1>
+Sistema do Paulo
+</h1>
 
-<h1>titulo</h1>
-<h2>titulo2</h2>
+<div style="display:flex; height: 400px;">
+
+    <div style="background-color: blue">
+        Esta coluna é de cor azul
+    </div>
+
+    <div style="background-color: yellow">
+        Esta coluna é de cor amarelo
+    </div>
 </div>
